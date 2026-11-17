@@ -1,16 +1,16 @@
 {
   "meta": {
     "sport": "MLB",
-    "generated_at": "2026-11-16T21:53:47.120869+00:00",
+    "generated_at": "2026-11-17T20:41:25.051049+00:00",
     "model_version": "1.0.0",
     "season": "2026",
     "status": "pipeline_pending",
     "tier_definition": "edge-v1",
     "lookahead_days": 0,
-    "source_commit": "1b29a30108739c0968fbd6c3695378043aa3024f",
+    "source_commit": "d6eafac7412a2522c3e6c31494bae11168edbae5",
     "total_bets": 0,
     "notes": "Canonical pick snapshot not found — daily pipeline may not have run yet",
-    "target_date": "2026-11-16",
+    "target_date": "2026-11-17",
     "picks_count": 0
   },
   "bets": []
